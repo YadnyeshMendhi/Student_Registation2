@@ -1,0 +1,10 @@
+C:\Users\Yadnyesh\source\repos\Student_Registation2\bin\Debug\Student_Registation2.exe.config
+C:\Users\Yadnyesh\source\repos\Student_Registation2\bin\Debug\Student_Registation2.exe
+C:\Users\Yadnyesh\source\repos\Student_Registation2\bin\Debug\Student_Registation2.pdb
+C:\Users\Yadnyesh\source\repos\Student_Registation2\obj\Debug\Student_Registation2.csproj.AssemblyReference.cache
+C:\Users\Yadnyesh\source\repos\Student_Registation2\obj\Debug\Student_Registation2.Form1.resources
+C:\Users\Yadnyesh\source\repos\Student_Registation2\obj\Debug\Student_Registation2.Properties.Resources.resources
+C:\Users\Yadnyesh\source\repos\Student_Registation2\obj\Debug\Student_Registation2.csproj.GenerateResource.cache
+C:\Users\Yadnyesh\source\repos\Student_Registation2\obj\Debug\Student_Registation2.csproj.CoreCompileInputs.cache
+C:\Users\Yadnyesh\source\repos\Student_Registation2\obj\Debug\Student_Registation2.exe
+C:\Users\Yadnyesh\source\repos\Student_Registation2\obj\Debug\Student_Registation2.pdb
